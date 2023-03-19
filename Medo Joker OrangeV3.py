@@ -26,4 +26,4 @@ print ('\033[0;35m>>>>>>>>>>link telegram<<<<<<<<< ')
 
 print ('\033[0;33m>https://t.me/+gzyGxT4ZZnA1YjY0< ')
 
-print ('\033[0;36m ')e
+print ('\033[0;36m ')
